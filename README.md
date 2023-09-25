@@ -1,6 +1,6 @@
 # Linux Foundation Certified System Administrator (LFCS) 
 
-These are my notes that I have wrote during my preparation for [LFCS exam] (https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/).
+These are my notes that I have wrote during my preparation for [LFCS exam](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/).
 
 The notes structure is based on Certification Preparation Guide - September 2023.
 
