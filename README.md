@@ -1,5 +1,4 @@
-# LFCS
-Linux Foundation Certified System Administrator (LFCS) 
+# Linux Foundation Certified System Administrator (LFCS) 
 
 These are my notes that I have wrote during my preparation for LFCS exam.
 
