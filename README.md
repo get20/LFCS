@@ -8,7 +8,7 @@ These notes contain instructions/commands for Ubuntu Linux Distribution.
 
 # Domains & Competencies
 
-[Operations Deployment 25%](https://github.com/get/LFCS/blob/main/operation-deployment.md)
+[Operations Deployment 25%](https://github.com/get20/LFCS/blob/main/operations-deployment.md)
 
 [Networking 25%](https://github.com/get20/LFCS/blob/main/networking.md)
 
