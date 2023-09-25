@@ -12,7 +12,7 @@ These notes contain instructions/commands for Ubuntu Linux Distribution.
 
 [Networking 25%](https://github.com/get20/LFCS/blob/main/networking.md)
 
-[Storage 20%](https://github.com/get/LFCS/blob/main/storage.md)
+[Storage 20%](https://github.com/get20/LFCS/blob/main/storage.md)
 
 [Essential Commands 20%](https://github.com/get20/LFCS/blob/main/essential-commands.md)
 
