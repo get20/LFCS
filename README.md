@@ -8,12 +8,12 @@ These notes contain instructions/commands for Ubuntu Linux Distribution.
 
 # Domains & Competencies
 
-Operations Deployment 25%
+[Operations Deployment 25%](https://github.com/get/LFCS/blob/main/operation-deployment.md)
 
-Networking 25%
+[Networking 25%](https://github.com/get/LFCS/blob/main/networking.md)
 
-Storage 20%
+[Storage 20%](https://github.com/get/LFCS/blob/main/storage.md)
 
-Essential Commands 20%
+[Essential Commands 20%](https://github.com/get/LFCS/blob/main/essential-commands.md)
 
 [Users and Groups 10%](https://github.com/get20/LFCS/blob/main/user-group.md)
