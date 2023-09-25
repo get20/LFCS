@@ -14,6 +14,6 @@ These notes contain instructions/commands for Ubuntu Linux Distribution.
 
 [Storage 20%](https://github.com/get/LFCS/blob/main/storage.md)
 
-[Essential Commands 20%](https://github.com/get/LFCS/blob/main/essential-commands.md)
+[Essential Commands 20%](https://github.com/get20/LFCS/blob/main/essential-commands.md)
 
 [Users and Groups 10%](https://github.com/get20/LFCS/blob/main/user-group.md)
