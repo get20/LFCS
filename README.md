@@ -16,4 +16,4 @@ Storage 20%
 
 Essential Commands 20%
 
-Users and Groups 10%
+[Users and Groups 10%](https://github.com/get20/LFCS/blob/main/user-group.md)
