@@ -10,7 +10,7 @@ These notes contain instructions/commands for Ubuntu Linux Distribution.
 
 [Operations Deployment 25%](https://github.com/get/LFCS/blob/main/operation-deployment.md)
 
-[Networking 25%](https://github.com/get/LFCS/blob/main/networking.md)
+[Networking 25%](https://github.com/get20/LFCS/blob/main/networking.md)
 
 [Storage 20%](https://github.com/get/LFCS/blob/main/storage.md)
 
